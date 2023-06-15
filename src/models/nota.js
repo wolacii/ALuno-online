@@ -24,6 +24,7 @@ class Nota {
             return "AP";
         }else{
             return "RP";
+            
         }
     }
 }
